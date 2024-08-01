@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title> Assignment - 06</title>
+  <link rel="stylesheet" type="text/CSS" href="style.CSS">
+</head>
+<body>
+  <div class="h1">
+   <h1>Template</h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <h1>Flexbox</h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <h1>Grid</h1>
+</div>
+<main id="main">
+ 
+ <main div class="main1">
+ <div class="one"></div> 
+ <div class="two"></div> 
+ <div class="three"></div>
+ <div class="four"></div> 
+ <div class="five"></div> 
+ <div class="six"></div> 
+ </main>
+<main div class="main2">
+ <div class="item1">  </div> 
+ <div class="item2"> </div> 
+ <div class="item3"> </div>
+ <div class="item4"> </div> 
+ <div class="item5"> </div> 
+ <div class="item6">  </div> 
+</main>
+<main div class="main3">
+<div class="item100"> Header</div> 
+<div class="item200"> Text 01</div>
+<div class="item300"> Article</div>
+ <div class="item400"> Main</div> 
+<div class="item500"> Text 02 </div>
+<div class="item600"> Putter</div> 
+ </main>
+ </main>
+ </body>
+
+</html>
